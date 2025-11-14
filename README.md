@@ -1,3 +1,3 @@
 Desenvolvedor focado em automação de processos, VBA, Python e soluções para integração de dados.
-```js
+```py
 from 'São Paulo' import Desenvolvedor 
